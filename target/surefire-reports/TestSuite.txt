@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 20.134 sec <<< FAILURE! - in TestSuite
+verifyClick(home.ClickTest)  Time elapsed: 9.476 sec  <<< FAILURE!
+java.lang.AssertionError: 
+	at home.ClickTest.verifyClick(ClickTest.java:21)
+
